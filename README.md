@@ -61,20 +61,6 @@ To model an e-commerce system capable of managing:
 
 ---
 
-## 📂 Repository Structure
-
-- `project_specification.pdf` — 📄 Full original specification & requirement analysis  
-- `requirement_analysis.md` — Breakdown of static/dynamic components & entity descriptions  
-- `er_model.md` — Conceptual ER design including entities, attributes, and relationships  
-- `er_restructuring.md` — ER restructuring process prior to schema translation  
-- `logical_model.md` — Relational schema with justification for every transformation  
-- `normalization.md` — Normal forms (1NF → 3NF) applied to each entity  
-- `data_dictionary.md` — Tabular view of entities, attributes, and relationships  
-- `business_rules.md` — Rules governing entity behavior and system constraints  
-- `sql_queries.sql` — Sample queries for various modules (customer, product, order, etc.)  
-
----
-
 ## 🎯 Use Case
 
 Ideal for:
