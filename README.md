@@ -1,8 +1,8 @@
 # E-Commerce Database Design
 
-A complete **relational database design** for an e-commerce platform — covering requirement analysis, ER modeling, normalization (3NF), and SQL queries.
+A complete **relational database design** for an e-commerce platform — covering requirement analysis, ER modeling, normalization to 3NF, and a documented query specification.
 
-> **Note:** This is a design-focused project with no backend implementation. All components reflect relational database principles developed from formal specifications.
+> **Note:** This is a **design deliverable**, not an executable implementation. The repository ships ER and relational-model diagrams plus a full design report; there is no SQL DDL or runnable schema in this repo.
 
 ## Project Objective
 
@@ -22,7 +22,7 @@ Model an e-commerce system capable of managing:
 | **3. ER Restructuring** | Eliminated generalizations and multivalued attributes for relational compatibility |
 | **4. Logical Schema** | Mapped ER to tables with primary/foreign keys following relational design standards |
 | **5. Normalization** | Verified all relations up to Third Normal Form (3NF) |
-| **6. Query Layer** | Reusable SQL queries for customers, orders, inventory, reviews, and services |
+| **6. Query Specification** | SQL query patterns for customers, orders, inventory, reviews, and services — documented in the design report (`docs/The E-commerce Platform.pdf`). No `.sql` files are shipped in this repo. |
 
 ## Diagrams
 
